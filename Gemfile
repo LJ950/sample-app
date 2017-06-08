@@ -29,7 +29,7 @@ gem 'jbuilder', '2.6.1'
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-gem 'wdm', '>= 0.1.0'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
@@ -37,6 +37,7 @@ group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'sqlite3', '1.3.13'
   gem 'byebug', platform: :mri
+  gem 'wdm', '>= 0.1.0'
 end
 
 group :development do
@@ -45,6 +46,7 @@ group :development do
   gem 'listen',                '3.0.8'
   gem 'spring',                '2.0.2'
   gem 'spring-watcher-listen', '2.0.1'
+  
 end
 
 group :test do
