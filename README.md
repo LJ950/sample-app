@@ -1,5 +1,7 @@
 # Ruby on Rails Tutorial sample application
 
+Heroku name: young-escarpment-76507
+
 This is the sample application for
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](http://www.railstutorial.org/)
