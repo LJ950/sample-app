@@ -1,5 +1,14 @@
 # Ruby on Rails Tutorial sample application
 
+Test users:
+Michael Hartl
+mhartl@example.com
+foobar
+
+Example User
+example@railstutorial.org
+foobar
+
 Heroku name: young-escarpment-76507
 
 This is the sample application for
